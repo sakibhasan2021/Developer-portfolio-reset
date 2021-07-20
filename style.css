@@ -1,5 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
 h1{
-    font-size:30px;
-    color: cornflowerblue;
-    text-align: center;
+    font-size:50px;
+}
+.sakib{
+    color:orange;
+}
+section{
+    display:flex;
+   
+}
+.bonucci-section{
+    width:50%;
+    padding-left: 5%;
+}
+.bonucci-section img{
+    width:80%;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding:10px 40px;
+    border-radius:5px;
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
